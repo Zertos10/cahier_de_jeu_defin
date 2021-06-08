@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>import_database</class>
+ <widget class="QDialog" name="import_database">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>772</width>
+    <height>640</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Importer un cahier de jeu</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="ressource.qrc">
+    <normaloff>:/img/importer_database.png</normaloff>:/img/importer_database.png</iconset>
+  </property>
+  <widget class="QLineEdit" name="adresse_ip">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>50</y>
+     <width>181</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>127.0.0.1</string>
+   </property>
+   <property name="placeholderText">
+    <string>adresse ip</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="mot_de_passe">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>130</y>
+     <width>181</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="placeholderText">
+    <string>mot de passe</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="nom_utilisateur">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>100</y>
+     <width>181</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>root</string>
+   </property>
+   <property name="placeholderText">
+    <string>nom utilisateur</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="port">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>50</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>3306</string>
+   </property>
+   <property name="placeholderText">
+    <string>port</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="connection">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>90</y>
+     <width>91</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Se connecter</string>
+   </property>
+  </widget>
+  <zorder>adresse_ip</zorder>
+  <zorder>port</zorder>
+  <zorder>connection</zorder>
+  <zorder>mot_de_passe</zorder>
+  <zorder>nom_utilisateur</zorder>
+ </widget>
+ <tabstops>
+  <tabstop>port</tabstop>
+  <tabstop>nom_utilisateur</tabstop>
+  <tabstop>adresse_ip</tabstop>
+  <tabstop>connection</tabstop>
+  <tabstop>mot_de_passe</tabstop>
+ </tabstops>
+ <resources>
+  <include location="ressource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

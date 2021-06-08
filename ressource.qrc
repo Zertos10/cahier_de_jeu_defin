@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/1.png</file>
+        <file>img/10.png</file>
+        <file>img/10_gris.png</file>
+        <file>img/11.png</file>
+        <file>img/11_gris.png</file>
+        <file>img/12.png</file>
+        <file>img/12_gris.png</file>
+        <file>img/13.png</file>
+        <file>img/13_gris.png</file>
+        <file>img/14.png</file>
+        <file>img/14_gris.png</file>
+        <file>img/15.png</file>
+        <file>img/15_gris.png</file>
+        <file>img/1_gris.png</file>
+        <file>img/2.png</file>
+        <file>img/2_gris.png</file>
+        <file>img/3.png</file>
+        <file>img/3_gris.png</file>
+        <file>img/4.png</file>
+        <file>img/4_gris.png</file>
+        <file>img/5.png</file>
+        <file>img/5_gris.png</file>
+        <file>img/6.png</file>
+        <file>img/6_gris.png</file>
+        <file>img/7.png</file>
+        <file>img/7_gris.png</file>
+        <file>img/8.png</file>
+        <file>img/8_gris.png</file>
+        <file>img/9.png</file>
+        <file>img/9_gris.png</file>
+        <file>img/ballon.png</file>
+        <file>img/croix_rouge.png</file>
+        <file>img/joueur.png</file>
+        <file>img/joueur2.png</file>
+        <file>img/OpenCv.txt</file>
+        <file>img/point gris.png</file>
+        <file>img/point jaune.png</file>
+        <file>img/point orange.png</file>
+        <file>img/point rouge.png</file>
+        <file>img/point vert.png</file>
+        <file>img/point_drop.png</file>
+        <file>img/point_gris.png</file>
+        <file>img/point_jaune.png</file>
+        <file>img/point_jaune_att.png</file>
+        <file>img/point_orange.png</file>
+        <file>img/point_orange_att.png</file>
+        <file>img/point_rouge.png</file>
+        <file>img/point_rouge_att.png</file>
+        <file>img/point_vert.png</file>
+        <file>img/point_vert_att.png</file>
+        <file>img/terrain.jpg</file>
+        <file>img/importer_database.png</file>
+        <file>img/error.png</file>
+        <file>img/export.png</file>
+        <file>img/crayon_selection.png</file>
+        <file>img/crayon_selection_ballon.png</file>
+    </qresource>
+</RCC>
