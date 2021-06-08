@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=ZOSu-2Oju-A
+
+https://wiki.qt.io/How_to_setup_Qt_and_openCV_on_Windows
+
+https://stackoverflow.com/questions/37112351/convert-qimage-to-cvmat-64fc3-format
